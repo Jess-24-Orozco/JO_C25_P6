@@ -1,3 +1,11 @@
 # JO_C25_P6
 Proyecto del Desarrollo Software
-##La aplicación web permite a los usuarios interactuar con los datos a través de gráficos interactivos, generados con solo presionar un botón. Los usuarios pueden crear visualizaciones como histogramas y gráficos de dispersión basados en los datos cargados, facilitando el análisis de manera sencilla e intuitiva. Además, la aplicación está desplegada en un servicio en la nube (Render), lo que permite acceder a ella desde cualquier lugar a través de un enlace web. El proyecto utiliza tecnologías como Streamlit para crear la interfaz web interactiva, Plotly Express para la visualización de datos, Pandas para la manipulación y análisis de los datos, y Render para garantizar el despliegue en la nube, haciendo que la aplicación esté disponible públicamente.##
+## Funcionalidades:
+- Cargar archivos CSV.
+- Crear gráficos interactivos (histogramas y gráficos de dispersión).
+- Visualización de datos cargados.
+
+## Tecnologías utilizadas:
+- **Streamlit**: Para la creación de la interfaz web interactiva.
+- **Plotly Express**: Para la visualización de los datos.
+- **Pandas**: Para la manipulación y análisis de datos.
