@@ -9,4 +9,7 @@ Proyecto del Desarrollo Software
 - **Streamlit**: Para la creación de la interfaz web interactiva.
 - **Plotly Express**: Para la visualización de los datos.
 - **Pandas**: Para la manipulación y análisis de datos.
+<<<<<<< HEAD
 
+=======
+>>>>>>> 77743f53aa2502eba767d767bfa2f5853c303416
